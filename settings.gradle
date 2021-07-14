@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Predulive_Edutech_Foundation"
